@@ -6,5 +6,5 @@ DELANI STUDIOS
 
 A brochure front page website made with:
 
-CSS, HTML and JavaScript Langages
-Bootstrap Framework and jQuery library
+1) CSS, HTML and JavaScript Langages
+2) Bootstrap Framework and jQuery library
